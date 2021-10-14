@@ -2,7 +2,7 @@
 
 This project was Github [Live Link](https://github.com/facebook/create-react-app).
 
-### :bulb: Initial Step :arrow_double_down:
+### :bulb: Initial Step :
 - [x] Create react app
 - [x] Router dom install
 - [x] React bootstrap install
